@@ -22,5 +22,5 @@ if st.button("Say Hello"):
 # Sidebar
 st.sidebar.title("About Me")
 st.sidebar.write("Hi, I'm Musharaf — Learning DevOps & Data Science 🚀")
-st.slidebar.write("MY EAGER TO CONTRIBUTE")
+st.slidebar.write("MY EAGER TO CONTRIBUTE TO DEVOPS")
 
