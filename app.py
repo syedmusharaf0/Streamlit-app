@@ -23,4 +23,5 @@ if st.button("Say Hello"):
 st.sidebar.title("About Me")
 st.sidebar.write("Hi, I'm Musharaf — Learning DevOps & Data Science 🚀")
 st.sidebar.write("MY EAGER TO CONTRIBUTE TO DEVOPS")
-
+st.sidebar.write("hello learning devops")
+st.sidebar.write("CI/CD")
